@@ -27,8 +27,3 @@
 - Binance币（Binance Coin，简称BNB）：BNB 是由币安交易所发行的代币，最初用于支付交易手续费，后来被扩展为用于币安生态系统内的各种用途，包括投票、折扣、抵押等。
 - 链上游戏中的虚拟货币：例如 CryptoKitties 中的 CryptoKitties 猫币，Axie Infinity 中的 Smooth Love Potion（SLP）等，这些代币被设计用于在特定的游戏生态系统中进行支付、奖励和交易。
 
-[稳定币是什么？](https://www.notion.so/1cec49631bfa81feaaf5de07f319c75d?pvs=21)
-
-[跨链交易和操作](https://www.notion.so/1cec49631bfa81fb9fbfc15205b4cfd8?pvs=21)
-
-[NFT**(Non-Fungible Tokens)**详细解释](https://www.notion.so/NFT-Non-Fungible-Tokens-1cec49631bfa8120b473ec7bdb4be5d8?pvs=21)
